@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    transition: 1s;
+}
+body.dark-light{
+background-color: black;
+color: white;
+}
+#btn{
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 150px;
+    
+}
